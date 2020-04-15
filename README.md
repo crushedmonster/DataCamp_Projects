@@ -7,6 +7,6 @@ DataCamp is an online interactive learning for Data Science. This repository hol
 
 | Projects      |Description    |
 | ------------- |:-------------:|
-| Predicting Credit Card Approvals      | Build a machine learning model to predict if a credit card application will get approved.|
+| <a href="https://github.com/crushedmonster/DataCamp_Projects/tree/master/Predicting%20Credit%20Card%20Approvals">Predicting Credit Card Approvals</a>| Build a machine learning model to predict if a credit card application will get approved.|
 
 
