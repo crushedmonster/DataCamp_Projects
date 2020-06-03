@@ -7,6 +7,7 @@ DataCamp is an online interactive learning for Data Science. This repository hol
 
 | Projects      |Description    |
 | ------------- |:-------------:|
+| <a href="https://github.com/crushedmonster/DataCamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game">TV, Halftime Shows, and the Big Game</a>| Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.|
 | <a href="https://github.com/crushedmonster/DataCamp_Projects/tree/master/Real-time%20Insights%20from%20Social%20Media%20Data">Real-time Insights from Social Media Data</a>| Learn to analyze Twitter data and do a deep dive into a hot trend.|
 | <a href="https://github.com/crushedmonster/DataCamp_Projects/tree/master/Predicting%20Credit%20Card%20Approvals">Predicting Credit Card Approvals</a>| Build a machine learning model to predict if a credit card application will get approved.|
 
